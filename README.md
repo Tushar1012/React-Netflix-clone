@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-you can watch app demo here(https://taanish.github.io/Netflix-clone)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
